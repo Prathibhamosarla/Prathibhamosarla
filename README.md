@@ -7,9 +7,17 @@
 ---
 
 ### 🔭 Projects
-- 🔥 [Smoke Detector using Arduino](https://github.com/Prathibhamosarla/smoke-detector-arduino)  
-  → Built using MQ-2 gas sensor and Arduino Uno with buzzer alerts. Triggered sound when gas levels were high.  
-  → A simple and effective beginner IoT project.
+🔥 [Smoke Detector using Arduino](https://github.com/Prathibhamosarla/smoke-detector-arduino)  
+  - Built using MQ-2 gas sensor and Arduino Uno with buzzer alerts. Triggered sound when gas levels were high.  
+  - A simple and effective beginner IoT project.
+
+🔗 [Unit Converter using C](https://github.com/Prathibhamosarla/unit-converter-c)
+  A basic console-based unit converter program written in C. Supports conversions like:
+   - Temperature (Celsius ↔ Fahrenheit)
+   - Distance (Kilometers ↔ Miles)
+   - Weight (Kilograms ↔ Pounds)
+💡 Developed to strengthen C programming concepts and control structures.
+
 
 ---
 
