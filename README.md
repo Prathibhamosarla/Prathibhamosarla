@@ -1,32 +1,53 @@
-# 👋 Hi there! I'm PrathibhaMosarla
+# Hi there! I'm Prathibha Mosarla 👋
 
-🎓 I'm an Electronics & Communication Engineering student interested in technology, electronics, and programming.  
-💡 I'm currently learning the **basics of C and Python** to build a strong foundation in software and embedded systems.  
-🛠️ Exploring beginner-friendly **IoT** and **Arduino** projects as part of my learning journey.
+## Aspiring Data Analyst | SQL | Excel | Power BI
 
----
+I am an Electronics & Communication Engineering graduate transitioning into Data Analytics.
 
-### 🔭 Projects
-🔥 [Smoke Detector using Arduino](https://github.com/Prathibhamosarla/smoke-detector-arduino)  
-  - Built using MQ-2 gas sensor and Arduino Uno with buzzer alerts. Triggered sound when gas levels were high.  
-  - A simple and effective beginner IoT project.
+I enjoy working with data to identify trends, solve business problems, and build dashboards that support decision-making.
 
-🔗 [Unit Converter using C](https://github.com/Prathibhamosarla/unit-converter-c)
-   - A basic console-based unit converter program written in C. Supports conversions like:
-   - Temperature (Celsius ↔ Fahrenheit)
-   - Distance (Kilometers ↔ Miles)
-   - Weight (Kilograms ↔ Pounds)
-💡 Developed to strengthen C programming concepts and control structures.
+### Skills
 
+* SQL
+* Microsoft Excel
+* Power BI
+* Data Cleaning
+* Data Visualization
+* KPI Reporting
+* Business Analysis
 
----
+### Featured Projects
 
-### 🌱 What I'm Learning
-- C Programming (Basics)
-- Python (Basics)
-- Git & GitHub
-- Arduino IDE
-- IoT and Sensors
+#### E-Commerce Sales Analysis
+
+Tools: SQL, Excel
+
+* Analyzed sales performance and customer behavior
+* Used joins, aggregations, window functions and business metrics
+* Built dashboards to identify sales trends and top-performing categories
+
+#### Sales & Profit Analysis Dashboard
+
+Tools: Excel
+
+* Built interactive dashboards using Pivot Tables and Charts
+* Identified profit drivers and discount impact
+* Performed regional and product-level analysis
+
+#### Student Performance Analytics
+
+Tools: Excel
+
+* Analyzed academic performance data
+* Created dashboards and performance insights
+* Performed data cleaning and trend analysis
+
+### Currently Learning
+
+* Power BI DAX
+* Data Modeling
+* Python for Data Analysis
+
 
 ---
 
